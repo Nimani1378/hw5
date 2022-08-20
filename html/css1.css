@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+}
+#main-header{
+    display: flex;
+    align-items: center;
+    background-color: #365899;
+    min-height: 80px;
+    margin-bottom: 50px;
+    padding: 0px 70px;
+}
+h1{
+    margin: 0px;
+}
+.r1{
+    width: 100%;
+    display: block;
+    margin: 5px 0px;
+    color: white;
+    
+}
+.t1{
+    display: flex;
+    
+    align-items:center;
+    flex-wrap: wrap;
+}
+#u1{
+    margin-bottom: 28.4px;
+    width: 35%;
+
+}
+.li1{
+    margin: 10px 0px;
+    display: block;
+}
